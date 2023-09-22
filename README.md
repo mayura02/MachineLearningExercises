@@ -1,2 +1,2 @@
 # MachineLearningExercises
-ML Exercise Notebook
+ML Exercise Notebooks
